@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Final-Netcore/.vs/Final-Netcore/v16
+/Final-Netcore/Final-Netcore/bin/Debug/netcoreapp3.1
+/Final-Netcore/Final-Netcore/obj
